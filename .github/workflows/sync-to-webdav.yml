@@ -2,34 +2,34 @@ name: Sync MD Files to WebDAV
 
 on:
   schedule:
-    # 每天在北京时间早上 2 点左右执行一次 (UTC 18:00)
+    # 每天在北京时间早上 2 点左右自动运行一次 (UTC 18:00)
     - cron: '0 18 * * *'
-  workflow_dispatch: # 允许手动点击 "Run workflow" 来触发
+  workflow_dispatch: # 这个选项允许您手动点击 "Run workflow" 来触发
 
 jobs:
-  sync:
+  sync-and-upload:
     runs-on: ubuntu-latest
     steps:
-      # 第一步：从原始仓库把最新代码下载到 GitHub 的服务器上
+      # 第一步：从 KHwang9883 的原始仓库拉取最新的代码
       - name: Checkout Source Repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v4 # 使用最新的 v4 版本
         with:
-          repository: 'KHwang9883/MobileModels' # 直接从源仓库拉取
-          path: 'source_repo' # 下载到名为 source_repo 的文件夹里
+          repository: 'KHwang9883/MobileModels' 
+          path: 'source_repo'
 
-      # 第二步：使用一个现成的 WebDAV 工具，将文件上传到您的网盘
-      - name: Upload to WebDAV server
-        uses: n-th/webdav-action@v1.1.0
+      # 第二步：使用正确的 webdav-action 工具，将文件上传到您的网盘
+      - name: Upload 'brands' folder to WebDAV
+        # 核心修正：使用正确的 action 名称和版本号
+        uses: n-th/webdav-action@v1.1.0 
         with:
-          # 服务器地址、用户名和密码，从我们刚才设置的机密信息中读取
+          # 以下信息将从您设置的 Secrets 中安全地读取
           server-address: ${{ secrets.WEBDAV_URL }}
           user: ${{ secrets.WEBDAV_USER }}
           password: ${{ secrets.WEBDAV_PASS }}
 
-          # 要上传的本地文件夹路径 (GitHub 服务器上的)
-          # 我们只需要 brands 文件夹里的内容
+          # 要上传的文件夹 (保持默认即可)
           local-path: ./source_repo/brands/
 
-          # !! 重要：您网盘上的目标文件夹路径 !!
-          # 请根据您的实际情况修改这里的路径
-          remote-path: /API/brands/
+          # !! 非常重要：请将这里的路径修改为您网盘上的目标文件夹 !!
+          # 例如: /MyWeb/brands/ 或者 /dav/brands/
+          remote-path: 'API/brands/'
