@@ -32,4 +32,4 @@ jobs:
 
           # !! 非常重要：请将这里的路径修改为您网盘上的目标文件夹 !!
           # 例如: /MyWeb/brands/ 或者 /dav/brands/
-          remote-path: 'API/brands/'
+          remote-path: '/API/brands/'
