@@ -1,4 +1,4 @@
-name: Sync MD Files to WebDAV
+name: Sync MD Files to WebDAV (cURL Ultimate Version)
 
 on:
   schedule:
@@ -17,25 +17,30 @@ jobs:
           repository: 'KHwang9883/MobileModels'
           path: 'source_repo'
 
-      # 步骤 2: 使用新的、有效的 WebDAV 工具上传文件
-      - name: Upload 'brands' folder to WebDAV
-        # 核心修正：更换为 ducalis/webdav-action
-        uses: ducalis/webdav-action@v1.2.0
-        with:
-          # --- ⬇️ 参数名已根据新工具更新，但读取的还是您设置的 Secrets ⬇️ ---
+      # 步骤 2: 使用 curl 创建目录并循环上传所有 .md 文件
+      - name: Create remote directory and upload files via cURL
+        run: |
+          # --- ⬇️ 您唯一需要修改的地方 ⬇️ ---
+          # !! 请将这里的路径修改为您网盘上的目标文件夹 !!
+          # 例如 "dav/files/brands" (注意：路径前后不要加斜杠)
+          TARGET_DIR="brands"
+          # --- ⬆️ 修改结束 ⬆️ ---
 
-          # WebDAV 服务器地址 (读取自 Secrets)
-          webdav_url: ${{ secrets.WEBDAV_URL }}
+          # 1. 确保基础 URL 后面没有斜杠，以避免双斜杠问题
+          BASE_URL=$(echo "${{ secrets.WEBDAV_URL }}" | sed 's:/*$::')
 
-          # WebDAV 用户名 (读取自 Secrets)
-          webdav_username: ${{ secrets.WEBDAV_USER }}
+          # 2. 创建远程目录 (如果不存在的话)
+          echo "Creating remote directory ${BASE_URL}/${TARGET_DIR}/"
+          curl --fail -u "${{ secrets.WEBDAV_USER }}:${{ secrets.WEBDAV_PASS }}" \
+               -X MKCOL "${BASE_URL}/${TARGET_DIR}/" || echo "Directory already exists or could not be created."
 
-          # WebDAV 密码 (读取自 Secrets)
-          webdav_password: ${{ secrets.WEBDAV_PASS }}
+          # 3. 进入包含 .md 文件的本地目录
+          cd ./source_repo/brands/
 
-          # 要上传的本地文件夹路径 (保持默认)
-          source_path: './source_repo/brands/'
-
-          # !! 非常重要：请再次确认您网盘上的目标文件夹路径 !!
-          # 例如: /MyWeb/brands/ 或者 /dav/files/brands/
-          target_path: '/API/brands/'
+          # 4. 循环上传每一个 .md 文件
+          for file in *.md; do
+            echo "Uploading $file..."
+            curl --fail -u "${{ secrets.WEBDAV_USER }}:${{ secrets.WEBDAV_PASS }}" \
+                 -T "$file" \
+                 "${BASE_URL}/${TARGET_DIR}/${file}"
+          done
