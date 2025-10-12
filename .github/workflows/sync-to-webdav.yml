@@ -38,4 +38,4 @@ jobs:
 
           # !! 非常重要：请再次确认您网盘上的目标文件夹路径 !!
           # 例如: /MyWeb/brands/ 或者 /dav/files/brands/
-          target_path: '/brands/'
+          target_path: '/API/brands/'
