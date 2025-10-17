@@ -92,6 +92,16 @@
 
 `PKU110`: OPPO Find X8 Ultra 卫星通信版
 
+**OPPO Find X9:**
+
+`PLJ110`: OPPO Find X9
+
+**OPPO Find X9 Pro:**
+
+`PLG110`: OPPO Find X9 Pro
+
+`PLG120`: OPPO Find X9 Pro 卫星通信版
+
 ## Find N 系列
 
 **OPPO Find N (`peacock`):**
@@ -726,6 +736,10 @@
 
 `OPD2417`: OPPO Pad SE
 
+**OPPO Pad 5:**
+
+`OPD2506`: OPPO Pad 5
+
 ## Watch/Band 系列
 
 **OPPO Band:**
@@ -803,3 +817,7 @@
 **OPPO Watch X2 (`starriver`) (`xinghe`):**
 
 `OWW251`: OPPO Watch X2
+
+**OPPO Watch S:**
+
+`OWW262`: OPPO Watch S

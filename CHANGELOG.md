@@ -1,4 +1,15 @@
 # 更新日志
+### 2025-10-16
+- `honor_cn` 新增 荣耀笔记本 X 系列 2026。
+- `oppo_cn` 新增 OPPO Pad 5。
+### 2025-10-15
+- `honor_cn` 新增 荣耀 Magic8 系列、MagicPad 3 系列、荣耀手表 5 Pro。
+### 2025-10-14
+- `motorola` 新增 moto g100。
+### 2025-10-13
+- `oneplus` 新增 一加 15、一加 Ace 6。
+- `oppo_cn` 新增 OPPO Find X9 系列、OPPO Watch S。
+- `vivo_cn` 新增 vivo WATCH GT 2。
 ### 2025-10-11
 - `samsung_cn` 新增 心系天下 三星 W26。
 ### 2025-09-30
