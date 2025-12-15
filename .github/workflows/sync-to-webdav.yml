@@ -10,11 +10,10 @@ jobs:
   sync-and-upload:
     runs-on: ubuntu-latest
     steps:
-      # 1. 拉取代码
+      # 1. 拉取代码 (已修正：默认拉取 Aiken-Chen/MobileModels)
       - name: Checkout Source Repo
         uses: actions/checkout@v4
         with:
-          repository: 'KHwang9883/MobileModels'
           path: 'source_repo'
 
       # 2. 上传到 WebDAV (增强版：带重试和超时控制)
@@ -36,9 +35,15 @@ jobs:
                -X MKCOL "${BASE_URL}/${TARGET_DIR}/" || echo "Directory check passed."
 
           # B. 进入本地目录
+          # 注意：这里确保 source_repo/brands 存在。
+          # 如果你的仓库结构就是 brands/*.md，这里没问题。
           cd ./source_repo/brands/
 
-          # C. 循环上传 (关键：增加重试机制防止 exit code 28)
+          # 调试：列出当前有什么文件，方便你在 Action 日志里检查
+          echo "Listing files to be uploaded:"
+          ls -la *.md
+
+          # C. 循环上传
           for file in *.md; do
             echo "Uploading $file..."
             curl --fail \
