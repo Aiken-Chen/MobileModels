@@ -1,4 +1,46 @@
 # 更新日志
+### 2025-12-14
+- `oppo_cn` 新增 OPPO Reno15c。
+### 2025-12-08
+- `samsung_cn` 新增 Galaxy Z TriFold。
+### 2025-12-02
+- `oppo_cn` 新增 OPPO A6l。
+### 2025-12-01
+- `honor_cn` 新增 荣耀畅玩 60A。
+- `nubia` 新增 nubia M153 豆包手机助手技术预览版。
+### 2025-11-25
+- `huawei_cn` 新增 HUAWEI Mate 80 系列、Mate X7、MatePad Edge 等。
+### 2025-11-24
+- `honor_cn` 新增 荣耀 500 系列。
+### 2025-11-19
+- `oneplus` 新增 一加 15 海外版、一加 Ace 6T。
+### 2025-11-07
+- `huawei_cn` 新增 HUAWEI WATCH Ultimate 2。
+### 2025-11-04
+- `vivo_cn` 新增 vivo Y500 Pro。
+### 2025-10-31
+- `motorola_cn` 新增 moto g100s。
+### 2025-10-27
+- `zhixuan` 新增 WIKO X70。
+### 2025-10-24
+- `motorola` 新增 moto X70 Air。
+- `xiaomi` 新增 POCO F8 Pro/Ultra。
+- `zhixuan` 新增 Hi MateBook 14 锐龙 200。
+### 2025-10-23
+- `xiaomi-wear` 新增 REDMI Watch 6。
+### 2025-10-22
+- `huawei_cn` 新增 HUAWEI Mate 70 Air、华为 Vision 智慧屏 5 SE 优享版。
+### 2025-10-21
+- `realme_cn` 新增 真我 GT8 系列。
+### 2025-10-18
+- `apple` 新增 iPad Pro (M5), Apple Vision Pro (M5)。
+- `oppo_cn` 新增 OPPO A6 Plus。
+### 2025-10-17
+- `huawei_cn` 新增 nova 14 活力版。
+- `nubia` 新增 红魔 11 Pro、nubia Z80 Ultra。
+- `oneplus` 新增 一加平板 2。
+- `vivo_cn` 新增 iQOO Neo11。
+- `xiaomi` 新增 REDMI K90 系列。
 ### 2025-10-16
 - `honor_cn` 新增 荣耀笔记本 X 系列 2026。
 - `oppo_cn` 新增 OPPO Pad 5。

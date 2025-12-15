@@ -101,6 +101,14 @@
 
 `V2429`: vivo X Fold5
 
+**vivo X300 (`PD2509F`):**
+
+`V2515`: vivo X300
+
+**vivo X300 Pro (`PD2502F`):**
+
+`V2514`: vivo X300 Pro
+
 ## vivo V series
 
 **vivo V15 (`PD1831F`):**
@@ -293,9 +301,17 @@
 
 `V2511` `V2512`: vivo V60
 
+**vivo V60 Lite:**
+
+`V2530`: vivo V60 Lite
+
 **vivo V60 Lite 5G:**
 
 `V2529`: vivo V60 Lite 5G
+
+**vivo V60e:**
+
+`V2513`: vivo V60e
 
 ## vivo S series
 
@@ -535,6 +551,10 @@
 
 `V2425` `V2454`: Jovi Y19s
 
+**vivo Y19s 5G:**
+
+`V2541`: vivo Y19s 5G
+
 **vivo Y19s Pro (`PD2420F`):**
 
 `V2419` `V2458` `V2507` `V2508` `V2519`: vivo Y19s Pro
@@ -609,7 +629,7 @@
 
 **vivo Y21d:**
 
-`V2520` `V2524` `V2535`: vivo Y21d
+`V2520` `V2524` `V2525` `V2535` `V2560`: vivo Y21d
 
 **vivo Y22 (`PD2226F`):**
 
@@ -893,6 +913,10 @@
 
 `I2401`: iQOO 13
 
+**iQOO 15 (`PD2505F`):**
+
+`I2501`: iQOO 15
+
 **iQOO Neo6 (`PD2199F`):**
 
 `I2202`: iQOO Neo6
@@ -999,4 +1023,6 @@
 
 **iQOO Z10R 5G:**
 
-`I2410`: iQOO Z10R 5G
+`I2410`: iQOO Z10R 5G India
+
+`I2505`: iQOO Z10R 5G Global

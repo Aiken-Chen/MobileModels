@@ -78,7 +78,7 @@
 
 `RMX3310`: 真我 GT2
 
-**真我 GT2 Pro:**
+**真我 GT2 Pro (`ferrari`):**
 
 `RMX3300`: 真我 GT2 Pro
 
@@ -86,31 +86,41 @@
 
 `RMX3551`: 真我 GT2 大师探索版
 
-**真我 GT5 (`zonda`):**
+**真我 GT5 150W (`zonda-a`):**
 
 `RMX3820`: 真我 GT5 150W
 
+**真我 GT5 240W (`zonda-b`):**
+
 `RMX3823`: 真我 GT5 240W
 
-**真我 GT5 Pro:**
+**真我 GT5 Pro (`enzo`):**
 
 `RMX3888`: 真我 GT5 Pro
 
-**真我 GT6:**
+**真我 GT6 (`divo`):**
 
 `RMX3800`: 真我 GT6
 
-**真我 GT7:**
+**真我 GT7 / 真我 GT7 阿斯顿马丁 F1 限量版 (`targa`):**
 
-`RMX6688`: 真我 GT7
+`RMX6688`: 真我 GT7 / 真我 GT7 阿斯顿马丁 F1 限量版
 
-**真我 GT7 Pro:**
+**真我 GT7 Pro (`pista`):**
 
 `RMX5010`: 真我 GT7 Pro
 
-**真我 GT7 Pro 竞速版:**
+**真我 GT7 Pro 竞速版 (`piloti`):**
 
 `RMX5090`: 真我 GT7 Pro 竞速版
+
+**真我 GT8 (`amg`):**
+
+`RMX6699`: 真我 GT8
+
+**真我 GT8 Pro (`lafa`):**
+
+`RMX5200`: 真我 GT8 Pro
 
 ## Neo 系列
 
@@ -136,37 +146,39 @@
 
 `RMX3562`: 真我 GT Neo3 150W
 
-**真我 GT Neo5:**
+**真我 GT Neo5 150W (`senna-b`):**
 
 `RMX3706`: 真我 GT Neo5 150W
 
+**真我 GT Neo5 240W (`senna-c`):**
+
 `RMX3708`: 真我 GT Neo5 240W
 
-**真我 GT Neo5 SE:**
+**真我 GT Neo5 SE (`senna-a`):**
 
 `RMX3700`: 真我 GT Neo5 SE
 
-**真我 GT Neo6:**
+**真我 GT Neo6 / 真我 GT Neo6 《完美世界》动画云曦限定礼盒 (`bale-b`):**
 
-`RMX3852`: 真我 GT Neo6
+`RMX3852`: 真我 GT Neo6 / 真我 GT Neo6 《完美世界》动画云曦限定礼盒
 
-**真我 GT Neo6 SE:**
+**真我 GT Neo6 SE (`bale-a`):**
 
 `RMX3850`: 真我 GT Neo6 SE
 
-**真我 Neo7:**
+**真我 Neo7 / 真我 Neo7 《画江湖之不良人》限定礼盒 (`cayman-a`):**
 
-`RMX5060`: 真我 Neo7
+`RMX5060`: 真我 Neo7 / 真我 Neo7 《画江湖之不良人》限定礼盒
 
-**真我 Neo7 Turbo:**
+**真我 Neo7 Turbo (`cayman-c`):**
 
 `RMX5062`: 真我 Neo7 Turbo
 
-**真我 Neo7 SE:**
+**真我 Neo7 SE (`brz-a`):**
 
 `RMX5080`: 真我 Neo7 SE
 
-**真我 Neo7x:**
+**真我 Neo7x (`dongfeng`):**
 
 `RMX5071`: 真我 Neo7x
 
@@ -290,7 +302,7 @@
 
 `RMX3920`: 真我 13 Pro+
 
-**真我 14:**
+**真我 14 (`dongfeng`):**
 
 `RMX5075`: 真我 14
 
@@ -298,7 +310,7 @@
 
 `RMX5055`: 真我 14 Pro
 
-**真我 14 Pro+:**
+**真我 14 Pro+ (`piaget`):**
 
 `RMX5050`: 真我 14 Pro+
 
@@ -306,11 +318,11 @@
 
 `RMX5105`: 真我 15
 
-**真我 15 Pro:**
+**真我 15 Pro (`neutron`):**
 
 `RMX5100`: 真我 15 Pro
 
-**真我 15T:**
+**真我 15T (`chopard`):**
 
 `RMX5112`: 真我 15T
 

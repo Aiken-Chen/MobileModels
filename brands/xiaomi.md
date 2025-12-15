@@ -804,7 +804,7 @@
 
 `25091RP04G`: Xiaomi Pad 8 Pro 国际版
 
-## 红米 / Redmi 数字系列
+## 红米 / REDMI 数字系列
 
 **[`H2TD`] 红米手机 (`wt93007`) (`HM2013022`):**
 
@@ -1316,7 +1316,7 @@
 
 `25082RNC1C`: REDMI 15R 5G
 
-## 红米 / Redmi Note 系列
+## 红米 / REDMI Note 系列
 
 **[`H3W`] 红米 Note (`lcsh92_wet_gb9`):**
 
@@ -1794,13 +1794,17 @@
 
 **[`N16`] Redmi Note 13 Pro (`garnet`):**
 
-`2312DRA50C` `2312CRAD3C`: Redmi Note 13 Pro 国行版
+`2312DRA50C` : Redmi Note 13 Pro 国行版 (LPDDR4x + UFS 2.2)
 
 `2312DRA50G`: Redmi Note 13 Pro 5G 国际版
 
 `2312DRA50I`: Redmi Note 13 Pro 5G 印度版
 
 `XIG05`: Redmi Note 13 Pro 5G 日本版 (KDDI)
+
+**[`N16S`] Redmi Note 13 Pro (`garnet`):**
+
+`2312CRAD3C`: Redmi Note 13 Pro 国行版 (LPDDR5 + UFS 3.1)
 
 **[`N16U`] Redmi Note 13 Pro+ (`zircon`):**
 
@@ -1914,7 +1918,7 @@
 
 `M2003J15SC`: Redmi 10X 4G
 
-## Redmi Turbo 系列
+## REDMI Turbo 系列
 
 **[`N16T`] Redmi Turbo 3 (`peridot`):**
 
@@ -1928,7 +1932,7 @@
 
 `25053RT47C`: REDMI Turbo 4 Pro
 
-## Redmi K 系列
+## REDMI K 系列
 
 **[`F10`] Redmi K20 (`davinci`):**
 
@@ -2066,13 +2070,27 @@
 
 `24122RKC7C`: REDMI K80 Pro
 
+**[`O11US`] REDMI K80 Pro 冠军版 (`miro`):**
+
 `24127RK2CC`: REDMI K80 Pro 冠军版
 
 **[`O12`] REDMI K80 至尊版 (`dali`):**
 
 `25060RK16C`: REDMI K80 至尊版
 
-## 其他红米 Redmi 手机
+**[`P11`] REDMI K90 (`annibale`):**
+
+`2510DRK44C`: REDMI K90
+
+**[`P11U`] REDMI K90 Pro Max (`myron`):**
+
+`25102RKBEC`: REDMI K90 Pro Max
+
+**[`P11UIP`] REDMI K90 Pro Max (`myron`):**
+
+`25102RK69C`: REDMI K90 Pro Max 冠军版
+
+## 其他 REDMI 手机
 
 **[`H3C`] 红米 Pro (`omega`):**
 
@@ -2170,7 +2188,7 @@
 
 `25028RN03L`: REDMI A5 拉美版
 
-## Redmi 平板
+## REDMI 平板
 
 **[`L83`] Redmi Pad (`yunluo`):**
 
@@ -2321,6 +2339,14 @@
 **[`O11U`] POCO F7 Ultra (`miro`):**
 
 `24122RKC7G`: POCO F7 Ultra 国际版
+
+**[`P11`] POCO F8 Pro (`annibale`):**
+
+`2510DPC44G`: POCO F8 Pro 国际版
+
+**[`P11U`] POCO F8 Ultra (`myron`):**
+
+`25102PCBEG`: POCO F8 Ultra 国际版
 
 **[`G7B`] POCO X2 (`phoenixin`):**
 

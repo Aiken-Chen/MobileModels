@@ -1,6 +1,6 @@
 # Xiaomi Mobile Phone Models
 
-- Range: Xiaomi/Redmi/POCO phones & tablets
+- Range: Xiaomi/REDMI/POCO phones & tablets
 - Codename: ✅
 
 ## Xiaomi phones
@@ -685,7 +685,7 @@
 
 `M1906F9SI`: Mi A3 India
 
-## Redmi phones
+## REDMI phones
 
 **[`H2TD`] Redmi 1 (`wt93007`) (`HM2013022`):**
 
@@ -1663,9 +1663,13 @@
 
 `2312DRA50I`: Redmi Note 13 Pro 5G India
 
-`2312DRA50C` `2312CRAD3C`: Redmi Note 13 Pro 5G China
+`2312DRA50C`: Redmi Note 13 Pro 5G China (LPDDR4x + UFS 2.2)
 
 `XIG05`: Redmi Note 13 Pro 5G Japan (KDDI)
+
+**[`N16S`] Redmi Note 13 Pro 5G (`garnet`):**
+
+ `2312CRAD3C`: Redmi Note 13 Pro 5G China (LPDDR5 + UFS 3.1)
 
 **[`N16U`] Redmi Note 13 Pro+ 5G (`zircon`):**
 
@@ -1921,11 +1925,25 @@
 
 `24122RKC7C`: REDMI K80 Pro China
 
+**[`O11US`] REDMI K80 Pro (`miro`):**
+
 `24127RK2CC`: REDMI K80 Pro Automobili Lamborghini Squadra Corse China
 
 **[`O12`] REDMI K80 Ultra (`dali`):**
 
 `25060RK16C`: REDMI K80 Ultra China
+
+**[`P11`] REDMI K90 (`annibale`):**
+
+`2510DRK44C`: REDMI K90 China
+
+**[`P11U`] REDMI K90 Pro Max (`myron`):**
+
+`25102RKBEC`: REDMI K90 Pro Max China
+
+**[`P11UIP`] REDMI K90 Pro Max (`myron`):**
+
+`25102RK69C`: REDMI K90 Pro Max Automobili Lamborghini Squadra Corse China
 
 **[`H3C`] Redmi Pro (`omega`):**
 
@@ -2086,6 +2104,14 @@
 **[`O11U`] POCO F7 Ultra (`miro`):**
 
 `24122RKC7G`: POCO F7 Ultra Global
+
+**[`P11`] POCO F8 Pro (`annibale`):**
+
+`2510DPC44G`: POCO F8 Pro Global
+
+**[`P11U`] POCO F8 Ultra (`myron`):**
+
+`25102PCBEG`: POCO F8 Ultra Global
 
 **[`G7B`] POCO X2 (`phoenixin`):**
 

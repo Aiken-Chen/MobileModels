@@ -312,6 +312,18 @@
 
 `PKZ110`: OPPO Reno14 Pro
 
+**OPPO Reno15:**
+
+`PLW110`: OPPO Reno15
+
+**OPPO Reno15 Pro:**
+
+`PLV110`: OPPO Reno15 Pro
+
+**OPPO Reno15c:**
+
+`PMD110`: OPPO Reno15c
+
 ## Ace 系列
 
 **OPPO Reno Ace:**
@@ -576,9 +588,9 @@
 
 `PJY110`: OPPO A3 Pro / OPPO A5 Plus
 
-**OPPO A5:**
+**OPPO A5 / OPPO A6 Plus:**
 
-`PKQ110`: OPPO A5 5G (2025)
+`PKQ110`: OPPO A5 5G (2025) / OPPO A6 Plus
 
 **OPPO A5 活力版:**
 
@@ -596,9 +608,9 @@
 
 `PLS120`: OPPO A6
 
-**OPPO A6 GT / OPPO A6 Max:**
+**OPPO A6 GT / OPPO A6 Max / OPPO A6l:**
 
-`PLL110`: OPPO A6 GT / OPPO A6 Max
+`PLL110`: OPPO A6 GT / OPPO A6 Max / OPPO A6l
 
 **OPPO A6 Pro:**
 

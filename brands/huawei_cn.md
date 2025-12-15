@@ -221,6 +221,28 @@
 
 `PLU-AL10`: HUAWEI Mate 70 RS 非凡大师
 
+**HUAWEI Mate 70 Air:**
+
+`SUP-AL90`: HUAWEI Mate 70 Air
+
+**HUAWEI Mate 80 (`Voyager`):**
+
+`VYG-AL00`: HUAWEI Mate 80
+
+**HUAWEI Mate 80 Pro (`Sagittarius`):**
+
+`SGT-AL50`: HUAWEI Mate 80 Pro (12GB 内存)
+
+`SGT-AL00`: HUAWEI Mate 80 Pro (16GB 内存)
+
+**HUAWEI Mate 80 Pro Max (`Sagittarius`):**
+
+`SGT-AL10`: HUAWEI Mate 80 Pro Max
+
+**HUAWEI Mate 80 RS 非凡大师 (`SagittariusU`):**
+
+`SGU-AL10`: HUAWEI Mate 80 RS 非凡大师
+
 **HUAWEI Mate X (`Tahiti`):**
 
 `TAH-AN00`: HUAWEI Mate X
@@ -262,6 +284,12 @@
 **HUAWEI Mate XTs 非凡大师 (`Greenlan`):**
 
 `GRL-AL20`: HUAWEI Mate XTs 非凡大师
+
+**HUAWEI Mate X7 (`Delphi`):**
+
+`DEL-AL10`: HUAWEI Mate X7
+
+`DEL-AL20`: HUAWEI Mate X7 典藏版
 
 ## HUAWEI P / Pura 系列
 
@@ -737,6 +765,10 @@
 
 `MRT-AL10`: HUAWEI nova 14 Ultra
 
+**HUAWEI nova 14 活力版 (`Taylor`):**
+
+`TYR-AL00`: HUAWEI nova 14 活力版
+
 **HUAWEI nova Flip S (`Poseidon`):**
 
 `PSD-AL80`: HUAWEI nova Flip S
@@ -1049,6 +1081,8 @@
 
 `BRE-AL80`: 华为畅享 70X
 
+`BRE-AL80a`: 华为畅享 70X 尊享版
+
 **华为畅享 70X 活力版 (`Bruce`):**
 
 `BRE-AL00a`: 华为畅享 70X 活力版 (128GB)
@@ -1231,6 +1265,16 @@
 
 `MRDI-W20`: HUAWEI MatePad Pro 12.2 英寸 2025 Wi-Fi 柔光版 (16GB+1TB)
 
+## HUAWEI MatePad Edge 系列
+
+**HUAWEI MatePad Edge (`Qianxuesen`):**
+
+`QXS-W00`: HUAWEI MatePad Edge
+
+`QXS-W10`: HUAWEI MatePad Edge (24GB+1TB)
+
+`QXS-W20`: HUAWEI MatePad Edge 液冷版
+
 ## HUAWEI MatePad Air 系列
 
 **HUAWEI MatePad Air (`Debussy2`):**
@@ -1248,6 +1292,8 @@
 `BKY-W20`: HUAWEI MatePad Air 12 英寸 Wi-Fi 柔光版
 
 **HUAWEI MatePad Air (`Laurent`):**
+
+`LRT-W00`: HUAWEI MatePad Air 12 英寸 2025 Wi-Fi 版 (8GB+256GB)
 
 `LRT-W20`: HUAWEI MatePad Air 12 英寸 2025 Wi-Fi 版
 
@@ -1482,6 +1528,10 @@
 **华为擎云 C7 (第 2 代):**
 
 `BBG7-W00`: 华为擎云 C7 (第 2 代) 11.5 英寸 Wi-Fi 版
+
+**华为擎云 C9 (`Weber`):**
+
+`WEB-W00`: 华为擎云 C9 13.2 英寸 Wi-Fi 版
 
 ## 笔记本电脑
 
@@ -2151,6 +2201,10 @@
 
 `HD98EDIJ`: 华为智慧屏 MateTV Pro 98 英寸
 
+**华为智慧屏 MateTV Max:**
+
+`HD1XEDIJ`: 华为智慧屏 MateTV Max 110 英寸
+
 **华为智慧屏 S 系列 (`Kant`):**
 
 `HD55KANB`: 华为智慧屏 S 55 60Hz (3GB+16GB)
@@ -2357,9 +2411,15 @@
 
 `HD55KULU`: 华为 Vision 智慧屏 5 SE 55
 
+`HDB525A9`: 华为 Vision 智慧屏 5 SE 优享版 55
+
 `HD65KULU`: 华为 Vision 智慧屏 5 SE 65
 
+`HDB526A9`: 华为 Vision 智慧屏 5 SE 优享版 65 
+
 `HD75KULU`: 华为 Vision 智慧屏 5 SE 75
+
+`HDB527A9`: 华为 Vision 智慧屏 5 SE 优享版 75 
 
 `HD85KULU`: 华为 Vision 智慧屏 5 SE 85
 
@@ -2455,11 +2515,17 @@
 
 `WDS-B19`: HUAWEI WATCH Ultimate 非凡探索
 
+**HUAWEI WATCH Ultimate 2:**
+
+`MCH-AL00`: HUAWEI WATCH Ultimate 2 非凡探索
+
 **HUAWEI WATCH ULTIMATE DESIGN 非凡大师:**
 
 `CLB-B19`: HUAWEI WATCH ULTIMATE DESIGN 非凡大师 黄金款
 
 `EDD-B39`: HUAWEI WATCH ULTIMATE DESIGN 非凡大师 蓝宝石黄金款
+
+`LNG-AL00`: HUAWEI WATCH ULTIMATE DESIGN 非凡大师 紫金款
 
 **HUAWEI WATCH GT:**
 
@@ -2491,17 +2557,19 @@
 
 `JPT-B19` `JPT-B29`: HUAWEI WATCH GT 3 46mm
 
-**HUAWEI WATCH GT 3 Pro:**
+**HUAWEI WATCH GT 3 Pro (`Frigga`):**
 
 `FRG-B19`: HUAWEI WATCH GT 3 Pro 43mm
 
+**HUAWEI WATCH GT 3 Pro (`Odin`):**
+
 `ODN-B19`: HUAWEI WATCH GT 3 Pro 46mm
 
-**HUAWEI WATCH GT 3 Pro 典藏版:**
+**HUAWEI WATCH GT 3 Pro 典藏版 (`Frigga`):**
 
 `FRG-B19`: HUAWEI WATCH GT 3 Pro 典藏版
 
-**HUAWEI WATCH GT 3 保时捷设计:**
+**HUAWEI WATCH GT 3 保时捷设计 (`Odin`):**
 
 `ODN-B19`: HUAWEI WATCH GT 3 保时捷设计
 
@@ -2523,7 +2591,7 @@
 
 `JNA-B29`: HUAWEI WATCH GT 5 Pro 42mm
 
-**HUAWEI WATCH GT 5 Pro (`Vili`):**
+**HUAWEI WATCH GT 5 Pro (`Vilipro`):**
 
 `VLI-B29`: HUAWEI WATCH GT 5 Pro 46mm
 
@@ -2551,7 +2619,7 @@
 
 `OCF-B29`: HUAWEI WATCH GT 2022 典藏版
 
-**HUAWEI WATCH GT Cyber:**
+**HUAWEI WATCH GT Cyber (`Arnold`):**
 
 `AND-B19`: HUAWEI WATCH GT Cyber
 
@@ -2607,7 +2675,7 @@
 
 `JPT-B29B`: HUAWEI WATCH B5-536
 
-**HUAWEI WATCH B5:**
+**HUAWEI WATCH B5 (`Odin`):**
 
 `ODN-B99`: HUAWEI WATCH B5-736
 
@@ -2623,15 +2691,19 @@
 
 `MLY-B10`: HUAWEI WATCH B9-D10
 
-**华为擎云 H5546:**
+**华为擎云 H3540 (`Seiya`):**
+
+`SYA-B19B`: 华为擎云 H3540
+
+**华为擎云 H5546 (`Phoinix`):**
 
 `PNX-B19B`: 华为擎云 H5546
 
-**华为擎云 H5556:**
+**华为擎云 H5556 (`Vili`):**
 
 `VLI-B19B`: 华为擎云 H5556
 
-**华为擎云 H5756:**
+**华为擎云 H5756 (`Vilipro`):**
 
 `VLI-B29B`: 华为擎云 H5756
 

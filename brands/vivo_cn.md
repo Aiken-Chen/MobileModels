@@ -394,6 +394,14 @@
 
 `V2465A`: vivo S30 Pro mini
 
+**vivo S50 (`PD2528`):**
+
+`V2528A`: vivo S50
+
+**vivo S50 Pro mini (`PD2527`):**
+
+`V2527A`: vivo S50 Pro mini
+
 ## vivo Y 系列
 
 **vivo Y3 (`PD1901`):**
@@ -786,6 +794,10 @@
 
 `V2506A`: vivo Y500
 
+**vivo Y500 Pro (`PD2516`):**
+
+`V2516A`: vivo Y500 Pro
+
 ## vivo T 系列
 
 **vivo T1 (`PD2115`):**
@@ -1084,6 +1096,10 @@
 
 `V2463A`: iQOO Neo10 Pro+
 
+**iQOO Neo11 (`PD2520`):**
+
+`V2520A`: iQOO Neo11
+
 ## iQOO Z 系列
 
 **iQOO Z1 (`PD1986`):**
@@ -1327,3 +1343,5 @@
 **iQOO WATCH GT 2:**
 
 `iWA2536A`: iQOO WATCH GT 2 蓝牙版
+
+`iWA2536C`: iQOO WATCH GT 2 eSIM 版

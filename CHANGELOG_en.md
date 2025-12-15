@@ -1,4 +1,34 @@
 # CHANGELOG
+### 2025-12-14
+- `huawei_global_en` Add HUAWEI Mate X7, nova 14 series.
+### 2025-12-08
+- `samsung_global_en` Add Galaxy Z TriFold.
+### 2025-12-03
+- `honor_global_en` Add HONOR Play10.
+### 2025-12-02
+- `oppo_global_en` Add OPPO A6x 5G.
+### 2025-12-01
+- `realme_global_en` Add realme P4x, C85 Pro.
+### 2025-11-29
+- `vivo_global_en` Add vivo X300, iQOO 15.
+### 2025-11-19
+- `oneplus_en` Add OnePlus 15, OnePlus Ace 6T.
+### 2025-11-04
+- `vivo_global_en` Add new models.
+### 2025-10-29
+- `oppo_global_en` Add OPPO Find X9, OPPO A6 Pro.
+### 2025-10-28
+- `google` Add Pixel Watch 4.
+### 2025-10-24
+- `nothing` Add Nothing Phone (3a) Lite.
+- `xiaomi_en` Add POCO F8 Pro/Ultra.
+### 2025-10-21
+- `realme_global_en` Add realme C85 5G.
+### 2025-10-18
+- `apple_en` Add iPad Pro (M5), Apple Vision Pro (M5).
+### 2025-10-17
+- `oneplus_en` Add OnePlus Pad 2 (China).
+- `xiaomi_en` Add REDMI K90 series.
 ### 2025-10-15
 - `honor_global_en` Add HONOR Magic8 series.
 ### 2025-10-13
